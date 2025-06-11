@@ -1,7 +1,7 @@
 # Double-NAT Isolation Build — 2025-06-05
 
 > **Status:** COMPLETE ✅  
-> The lab now lives on its own 10.77.0.0/24 subnet behind a spare Linksys router, which in turn sits behind the AT&T BGW-320 gateway.  
+> The lab now lives on its own 10.77.0.0/xx subnet behind a spare Linksys router, which in turn sits behind the AT&T BGW-320 gateway.  
 > No VMs yet—this file documents the physical wiring, router configs, and validation tests so recruiters can see the foundation is solid.
 
 ---
