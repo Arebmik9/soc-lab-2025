@@ -1,5 +1,5 @@
 # soc-lab-2025  
 ## Network Isolation
 
-Double-NAT lab: AT&T BGW 320 ➜ Linksys (10.77.0.0/24).  
+Double-NAT lab: AT&T BGW 320 ➜ Linksys (10.77.0.0/xx).  
 Full walkthrough: [docs/network-isolation.md](docs/network-isolation.md)
