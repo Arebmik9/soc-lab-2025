@@ -1,0 +1,17 @@
+### 🗄️  Lab Storage Location
+
+| Item | Path |
+|------|------|
+| VirtualBox VMs | **E:\VMs** (external USB-SSD) |
+| ISO library | **E:\ISOs** |
+| Snapshots | Inside each VM folder on **E:\VMs** |
+
+**Why external?**  
+- Frees 60 + GB from the laptop’s NVMe drive  
+- Allows quick transport between machines  
+- Keeps lab disks physically separable from the host in case of malware tests
+
+> *Note:* the external drive is formatted **exFAT** so both Windows and macOS can read it if I migrate the lab later.
+
+Additions to `.gitignore` (already committed):
+
